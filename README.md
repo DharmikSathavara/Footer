@@ -12,7 +12,7 @@ A modern responsive footer UI built with Bootstrap, HTML5.
 ## UI Preview
 
 <p align="center">
-  <img src="Footer photo.png" alt="Footer Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
+  <img src="footer-preview.png" alt="Footer Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);"/>
 </p>
 
 ---
